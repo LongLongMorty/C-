@@ -1,3 +1,4 @@
+```cpp
 #include <iostream>
 #include <cstring>
 #include <algorithm>
@@ -52,3 +53,4 @@ int main()
     cout << bfs(n,m);
     return 0;
 }
+```
